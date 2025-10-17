@@ -11,7 +11,7 @@ Time spent: **6** hours spent in total
 The following **required** functionality is completed:
 
 - [X] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): `[TODO: FILL ME IN TO GET CREDIT]`
+  - Chosen metric(s): `Nutrition/Calories, Water `
 - [X] **There is a "create entry" UI that prompts users to make their daily entry**
 - [X] **New entries are saved in a database and then updated in the RecyclerView**
 - [X] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [ ] **Create a UI for tracking averages and trends in metrics**
-- [ ] **Improve and customize the user interface through styling and coloring**
+- [X] **Improve and customize the user interface through styling and coloring**
 - [ ] **Implement orientation responsivity**
 - [ ] **Add a daily photo feature**
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/eEQ07nR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with http://i.imgur.com  
